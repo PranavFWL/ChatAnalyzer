@@ -9,9 +9,7 @@ import seaborn as sns
 
 
 def con(data):
-  #a = open(t, 'r', encoding='utf-8')
-  #data = a.read()
-
+  
   paaa =r"(\d{1,2}/\d{1,2}/\d{2,4}, \d{1,2}:\d{2}\s[APMapm]{2}) - ([A-Za-z\s]+):\s(.+)"
   n_data = re.findall(paaa, data)
   
