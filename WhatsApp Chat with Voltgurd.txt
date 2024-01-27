@@ -1,0 +1,377 @@
+9/2/23, 6:52 AM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+9/1/23, 10:34 PM - Pranav Vyawahare created group "Mini project"
+9/1/23, 10:34 PM - Pranav Vyawahare added you
+9/1/23, 10:34 PM - You're now an admin
+9/1/23, 10:34 PM - Pranav Vyawahare: You can create a project to automatically turn off lights in a classroom when there are no people present using a combination of hardware and software. Here's a high-level solution:
+
+**Hardware Components:**
+1. **Motion Sensors:** Install motion sensors in the classroom to detect the presence of people. Passive Infrared (PIR) sensors or ultrasonic sensors are commonly used for this purpose.
+
+2. **Microcontroller or Single-Board Computer:** Use a microcontroller like Arduino or a single-board computer like Raspberry Pi to control the system.
+
+3. **Relay Module:** Connect a relay module to the microcontroller. This will be used to control the lights.
+
+4. **Power Supply:** Ensure a stable power supply for the sensors and microcontroller.
+
+**Software Components:**
+1. **Programming:** Write code for the microcontroller to read data from the motion sensors. When motion is detected, the microcontroller should trigger the lights to turn on, and when no motion is detected for a specified period, it should turn off the lights.
+
+2. **Data Processing:** Implement logic to handle situations where the sensors may give false positives (e.g., if a student is sitting still). You can use a simple algorithm to confirm the absence of movement over time before turning off the lights.
+
+3. **User Interface:** Create a user interface (web or mobile app) to allow manual control of the lights and to set parameters like the delay for turning off the lights after no motion is detected.
+
+4. **Notifications:** Optionally, you can implement a notification system to alert facility staff or teachers if the lights remain on when the room is empty for an extended period.
+
+5. **Data Logging:** You can log sensor data to track room occupancy patterns and optimize the system over time.
+
+Remember to consider safety regulations and energy-saving guidelines when implementing such a system in an educational institution. Additionally, consult with your school or organization's maintenance and IT departments for approval and assistance in installation.
+
+This project involves both hardware and software skills, so make sure to have a good understanding of both aspects or collaborate with others who have the necessary expertise.
+9/1/23, 10:35 PM - Pranav Vyawahare: We can make it
+9/1/23, 10:35 PM - Pranav Vyawahare: Everyone decide there domain and there work
+9/1/23, 10:35 PM - Vedant Kasbekar: Chat gpt op
+9/1/23, 10:36 PM - Pranav Vyawahare: I will choose data related part if a students are standstill then that work
+9/1/23, 10:38 PM - Vedant Kasbekar: we are not using motion sensing in this
+9/1/23, 10:39 PM - Pranav Vyawahare: Why
+9/1/23, 10:40 PM - Pranav Vyawahare: We are using motion sensor + Ml
+9/1/23, 10:40 PM - Pranav Vyawahare: It will work
+9/1/23, 10:40 PM - Vedant Kasbekar: we will train the model with pictorial data of filled class and closed class on that data the AI will judge the class is field or not
+9/1/23, 10:41 PM - Pranav Vyawahare: What about camera
+9/1/23, 10:42 PM - Vedant Kasbekar: first we have to se the brand of camera used in our class
+9/1/23, 10:42 PM - Vedant Kasbekar: then the camera access policys
+9/1/23, 10:42 PM - Pranav Vyawahare: It is cp plus
+9/1/23, 10:43 PM - Pranav Vyawahare: I know i have the same cameras at my home
+9/1/23, 10:43 PM - Vedant Kasbekar: ok
+9/1/23, 10:43 PM - Vedant Kasbekar: and can we download  the clip in our gallery
+9/1/23, 10:44 PM - Vedant Kasbekar: or we have to access through app only
+9/1/23, 10:44 PM - Pranav Vyawahare: No we cannot they don't have that feature
+9/1/23, 10:44 PM - Saloni: Wait a min....
+Can someone explain me the topic 🙂
+9/1/23, 10:44 PM - Vedant Kasbekar: its a problem
+9/1/23, 10:44 PM - Pranav Vyawahare: 🙃🙃🙃🫡
+9/1/23, 10:45 PM - Pranav Vyawahare: So basically the topic is  the lights and fans in the class are generally on even if there is no one in the class
+9/1/23, 10:46 PM - Pranav Vyawahare: So a solution to it is used in toilets
+9/1/23, 10:46 PM - Saloni: Sensors is the solution
+9/1/23, 10:46 PM - Pranav Vyawahare: But it failed t
+9/1/23, 10:47 PM - Saloni: We'll discuss tomorrow...
+9/1/23, 10:47 PM - Pranav Vyawahare: So If we use sensors along with ml
+9/1/23, 10:47 PM - Pranav Vyawahare: I think it will work
+9/1/23, 10:47 PM - Saloni: I'm coming to clg🙂
+9/1/23, 10:47 PM - Pranav Vyawahare: Ok 🫡🫡🫡
+9/1/23, 10:48 PM - Vedant Kasbekar: there are many constrans in sensor and motion tracking rather than this by using the AIML model we have to make it possible in this 10% iot will be used like wifi chip
+9/1/23, 10:49 PM - Pranav Vyawahare: Yes we will discuss it tomorrow
+9/1/23, 10:50 PM - Vedant Kasbekar: This message was deleted
+9/1/23, 10:51 PM - Pranav Vyawahare: No joke vedant
+9/1/23, 10:51 PM - Pranav Vyawahare: Be professional 😎😎
+9/2/23, 6:17 PM - Vedant Kasbekar: @919028950859
+9/2/23, 6:19 PM - Pranav Yelikar: Ohhh tar group already banlela aahe😂
+9/2/23, 6:31 PM - Vedant Kasbekar changed the group name from "Mini project" to "विद्युत्रक्ष् रक्ष्क⚡"
+9/2/23, 6:32 PM - Vedant Kasbekar changed this group's icon
+9/2/23, 6:40 PM - You changed this group's icon
+9/2/23, 7:41 PM - Pranav Yelikar: <Media omitted>
+9/2/23, 7:41 PM - Pranav Yelikar: <Media omitted>
+9/4/23, 1:52 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:52 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:53 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:53 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:53 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:53 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:53 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:53 AM - Vedant Kasbekar: <Media omitted>
+9/4/23, 1:53 AM - Vedant Kasbekar: best site for datasets
+9/23/23, 10:33 AM - You changed the group name from "विद्युत्रक्ष् रक्ष्क⚡" to "P2VS विद्युत्रक्ष् रक्ष्क⚡"
+9/23/23, 10:33 AM - Pranav Yelikar: Guyesssssssss
+9/23/23, 10:33 AM - Pranav Yelikar: Ek time decide kara
+9/23/23, 10:34 AM - Pranav Yelikar: Meet sathi
+9/23/23, 10:34 AM - Pranav Yelikar: 12pm 👍
+9/23/23, 10:40 AM - Pranav Vyawahare: Ok
+9/23/23, 10:40 AM - Pranav Vyawahare: No problem
+9/23/23, 11:10 AM - Pranav Yelikar: @917030979671 @917559115119 
+Your vote
+9/23/23, 11:10 AM - Pranav Yelikar: Ok tar 12 la 
+@917709094875 
+@917559115119
+9/23/23, 11:11 AM - Vedant Kasbekar: Ho
+9/23/23, 11:11 AM - Pranav Vyawahare: Ok
+9/23/23, 11:54 AM - You started a video call
+9/23/23, 11:56 AM - Vedant Kasbekar: https://meet.google.com/zrj-rbqa-hwn
+9/24/23, 2:20 PM - Vedant Kasbekar: https://www.hackster.io/jdanielse/amg8833-thermal-camera-fc8478
+9/24/23, 2:20 PM - Vedant Kasbekar: 5k cha camera ahe
+9/24/23, 2:24 PM - Vedant Kasbekar: https://youtu.be/sqvsMHDMZ2o?feature=shared
+9/24/23, 2:27 PM - Vedant Kasbekar: https://youtu.be/T-XuDpsJ-g8?feature=shared
+9/24/23, 2:28 PM - Vedant Kasbekar: https://youtu.be/Kfa8cv67I3Y?feature=shared
+9/24/23, 2:49 PM - Vedant Kasbekar: mlx90640 thermal camera
+9/24/23, 2:49 PM - Vedant Kasbekar: this is camera on which we can train ML model
+9/24/23, 3:00 PM - Pranav Vyawahare: Ok
+9/26/23, 11:54 AM - Pranav Yelikar: Cost:
+IR thermal sensor: ~4000Rs
+Motion sensor: ~300Rs
+
+Round figure price: 5000Rs
+
+Challenge: 
+Project cost is more than budget.
+
+Solution: Rise funds for the project from college.
+
+Road map:
+
+1. Build a basic model by training module by IR Thermal images.
+2. Demonstrate it with LED light
+
+This basic model will build credibility, which will make it easier to rise funds
+9/26/23, 11:55 AM - Pranav Yelikar: Asan bhasha Mai: Shark tank Deogiri
+9/26/23, 11:56 AM - Pranav Yelikar: Your views @917559115119 
+@917030979671
+9/26/23, 11:57 AM - You changed the group name from "P2VS विद्युत्रक्ष् रक्ष्क⚡" to "P2VS विद्युत् रक्ष्क⚡"
+9/26/23, 12:14 PM - Pranav Vyawahare: https://dplat.zbyte.io/app/form/page1-65126b6d3f2af41b061e5202/edit
+9/26/23, 12:14 PM - Pranav Yelikar: https://docs.google.com/forms/u/0/d/e/1FAIpQLSfmd3R4rdcu8dvrvr-Bv-r4hYUUv960bQ9rjhVdcKFxkANRxQ/formResponse
+9/26/23, 12:15 PM - Pranav Vyawahare: <Media omitted>
+9/26/23, 12:35 PM - Vedant Kasbekar: Kay ahe he
+9/26/23, 12:35 PM - Pranav Vyawahare: Fill the form
+9/26/23, 12:36 PM - Pranav Vyawahare: At last add this link
+9/30/23, 1:50 AM - Vedant Kasbekar: Udya mini project la ya sagle 10:15 la
+9/30/23, 7:42 AM - Pranav Yelikar: Haaaaaaa
+9/30/23, 7:42 AM - Pranav Yelikar: Yesssss
+10/7/23, 12:02 AM - Vedant Kasbekar: Udya mentor mentee ahe
+10/7/23, 12:07 AM - Vedant Kasbekar: Udya 10:15 la ya sagle
+10/14/23, 3:15 PM - You started a video call
+10/14/23, 3:16 PM - Pranav Yelikar: Use this link to join my WhatsApp video call: https://call.whatsapp.com/video/gmXutWDaAwvXogO6KCSXe9
+
+ *4 pm* meeting
+10/14/23, 3:57 PM - Vedant Kasbekar: https://meet.google.com/vcv-iawr-roo
+10/14/23, 3:57 PM - Vedant Kasbekar: join karo
+10/14/23, 4:00 PM - Saloni: Guys
+10/14/23, 4:00 PM - Saloni: My Mike is not working
+10/14/23, 4:01 PM - Pranav Yelikar: Rejoin kar
+10/14/23, 4:01 PM - Saloni: <Media omitted>
+10/14/23, 4:01 PM - Saloni: Headphones nhi lavle ahet🙂
+10/14/23, 4:01 PM - Saloni: Yesss
+10/14/23, 5:26 PM - Pranav Yelikar: Takes:
+1. Pranav V and Vedant: Developing ML model 
+
+2. Saloni: Collecting data set for motion and thermal sensor
+
+3. Pranav Y: Access to raspberry Pi 0 & motion sensor, market research
+10/16/23, 3:31 PM - Pranav Yelikar: Embedded c: programming language for 8 pin micro controller
+10/17/23, 12:14 PM - Pranav Vyawahare: Creating a machine learning model that predicts whether to open or close lights based on both thermal and motion data is a complex task. You'll need a labeled dataset with examples of different conditions when lights should be opened or closed. Once you have the dataset, you can build a model, preprocess the data, and train it. Below, I'll provide a simplified Python code example using scikit-learn to demonstrate the basic steps. Please note that this is a basic illustration, and in a real-world scenario, you would need more data and a more complex model.
+
+```python
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+
+# Sample dataset (replace this with your actual dataset)
+# Features: Thermal data and Motion data
+# Labels: 0 for "Close Lights," 1 for "Open Lights"
+data = np.array([
+    [23.5, 1],  # [Thermal, Motion]
+    [24.0, 1],
+    [21.0, 0],
+    [22.5, 0],
+    [25.0, 1],
+    [26.0, 1],
+    [20.0, 0],
+    [19.5, 0]
+])
+
+# Split the dataset into features (X) and labels (y)
+X = data[:, :-1]  # Features (Thermal, Motion)
+y = data[:, -1]   # Labels (0 or 1)
+
+# Split data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Initialize and train a Random Forest classifier
+clf = RandomForestClassifier(n_estimators=100, random_state=42)
+clf.fit(X_train, y_train)
+
+# Make predictions on the test set
+y_pred = clf.predict(X_test)
+
+# Calculate accuracy
+accuracy = accuracy_score(y_test, y_pred)
+print(f"Model Accuracy: {accuracy * 100:.2f}%")
+
+# You can use this model to predict whether to open or close lights for new data points.
+new_data_point = np.array([[23.0, 1]])  # Example data point
+prediction = clf.predict(new_data_point)
+
+if prediction == 0:
+    print("Close Lights")
+else:
+    print("Open Lights")
+```
+
+In this example, we used a random forest classifier, but you can experiment with different machine learning algorithms to find the one that best suits your data. Additionally, you'll need to replace the sample dataset with your actual data for training and testing the model. The model's accuracy will depend on the quality and quantity of your dataset, as well as the choice of features and the model's hyperparameters.
+10/18/23, 1:02 PM - Saloni: <Media omitted>
+10/18/23, 1:02 PM - Saloni: Guys u can just correlate wid this
+10/18/23, 1:02 PM - Saloni: We are going to generate  a new dataset from chatgpt
+10/18/23, 1:04 PM - Saloni: https://www.kaggle.com/datasets/malekzadeh/motionsense-dataset
+10/18/23, 1:05 PM - Saloni: <Media omitted>
+10/18/23, 1:05 PM - Saloni: Motion dataset
+10/18/23, 1:06 PM - Saloni: ..
+10/18/23, 1:06 PM - Pranav Vyawahare: Yes it is good way 👍
+10/18/23, 1:06 PM - Pranav Vyawahare: Same I have done in this model
+10/19/23, 11:53 AM - Pranav Vyawahare: Building a model to automatically control lights in a classroom based on thermal and motion sensors involves a combination of hardware and software components. Below are the steps and the equipment/software required in detail:
+
+**Step 1: Define Objectives and Requirements**
+
+- **Define Objectives**: Clearly state your objectives for the lighting control system, including energy efficiency, comfort, and automation.
+
+- **Classroom Assessment**: Assess the size, layout, and usage patterns of the classroom to determine the optimal locations for sensors and lights.
+
+**Step 2: Hardware Setup**
+
+- **Motion Sensors**: Install motion sensors at strategic locations in the classroom. These sensors can be passive infrared (PIR) or ultrasonic sensors.
+
+- **Thermal Sensors**: Install thermal sensors, such as temperature and humidity sensors, in the classroom. These sensors can provide data on environmental conditions.
+
+- **Lighting Equipment**: Ensure that your lighting system is compatible with automation. You may need dimmable LED lights or smart lighting fixtures.
+
+- **Microcontroller/PLC**: Use a microcontroller (e.g., Arduino, Raspberry Pi) or a Programmable Logic Controller (PLC) to interface with the sensors and control the lights.
+
+**Step 3: Data Collection and Integration**
+
+- **Sensor Data**: Write code to collect data from the thermal and motion sensors through the microcontroller or PLC.
+
+- **Sensor Calibration**: Calibrate the sensors to ensure accurate readings and define thresholds for motion detection and temperature levels for lighting control.
+
+**Step 4: Data Processing and Model Development**
+
+- **Data Preprocessing**: Use software (e.g., Python with libraries like NumPy and Pandas) to preprocess the sensor data. Clean the data, remove outliers, and create features.
+
+- **Machine Learning Model**: Develop a machine learning model using a library like scikit-learn. The model should take sensor data as input and predict whether lights should be on or off.
+
+**Step 5: Model Training and Validation**
+
+- **Data Split**: Split your dataset into a training set and a testing set for model training and validation.
+
+- **Model Selection**: Experiment with different machine learning algorithms (e.g., Decision Trees, Random Forest, Neural Networks) and choose the one that best suits your data.
+
+- **Model Evaluation**: Use evaluation metrics like accuracy, precision, and recall to assess the model's performance.
+
+**Step 6: Model Integration and Control Logic**
+
+- **Control Logic**: Implement control logic in your microcontroller/PLC to take the model's predictions into account and control the lights accordingly.
+
+- **Software**: Write code to send control commands to the lighting system based on the model's output. For Arduino, you might use the Arduino IDE, while for Raspberry Pi, you can use Python.
+
+**Step 7: Testing and Fine-Tuning**
+
+- Test the system under various classroom conditions to ensure it behaves as expected. Make adjustments as needed, including fine-tuning sensor thresholds and model parameters.
+
+**Step 8: User Interface (Optional)**
+
+- Create a user interface if you want to provide manual control or monitor the system. You can develop a web-based interface using HTML, CSS, and JavaScript or use IoT platforms like Blynk or Cayenne.
+
+**Step 9: Documentation and Maintenance**
+
+- Document the system design, components, and operating procedures. Regularly maintain the sensors and the software to ensure reliable operation.
+
+**Equipment and Software:**
+
+- **Hardware**:
+  - Motion Sensors (PIR or Ultrasonic)
+  - Thermal Sensors (Temperature and Humidity)
+  - Lighting Fixtures (Dimmable or Smart)
+  - Microcontroller (e.g., Arduino, Raspberry Pi)
+  - Wiring and Power Supplies
+
+- **Software**:
+  - Python for data preprocessing and machine learning
+  - Libraries like scikit-learn for machine learning
+  - Arduino IDE for microcontroller programming (if using Arduino)
+  - Raspberry Pi OS and Python (if using Raspberry Pi)
+  - User interface development tools (HTML/CSS/JavaScript or IoT platforms)
+
+Remember that building such a system requires a good understanding of both hardware and software, as well as electrical safety considerations when working with sensors and lighting systems. Additionally, you may need the assistance of an electrician for proper installation.
+10/19/23, 9:39 PM - Vedant Kasbekar: all members come tomorrow at 10 am we will dedicate our 2hours for our project
+10/19/23, 9:41 PM - Saloni: Tomorrow I have ML Practical
+10/20/23, 7:38 AM - Pranav Yelikar: A human body temperature ranges from 34 - 40°C
+10/27/23, 6:32 PM - Pranav Vyawahare: <Media omitted>
+10/27/23, 6:55 PM - Pranav Vyawahare: <Media omitted>
+10/27/23, 7:14 PM - Pranav Yelikar: Good
+10/27/23, 7:15 PM - Pranav Vyawahare: Yes
+10/27/23, 7:16 PM - Pranav Vyawahare: Me and saloni are doing report
+10/27/23, 7:16 PM - Pranav Vyawahare: Pranav yelikar and vedant presentations
+10/27/23, 7:19 PM - Pranav Vyawahare: LINK OF GOOGLE FORM :https://tinyurl.com/seminarminiprojectstatus
+10/27/23, 7:20 PM - Pranav Vyawahare: <Media omitted>
+10/27/23, 7:20 PM - Pranav Vyawahare: <Media omitted>
+10/27/23, 8:04 PM - Vedant Kasbekar: EnergyWardens kasa nav ahe
+10/27/23, 8:04 PM - Pranav Vyawahare: Na
+10/27/23, 8:06 PM - Vedant Kasbekar: EcoSense
+10/27/23, 8:06 PM - Vedant Kasbekar: ThermoGuard
+10/27/23, 8:44 PM - Pranav Yelikar: 1. Elecure 
+2. Voltgurd
+3. Wattgurd
+4. Ampgurd
+5. Sheltron
+10/27/23, 8:44 PM - Pranav Yelikar: Give your vote
+10/27/23, 8:44 PM - Pranav Yelikar: 2, 3
+10/27/23, 8:57 PM - Vedant Kasbekar: POLL:
+name
+OPTION: Elecure (2 votes)
+OPTION: Voltgurd (4 votes)
+OPTION: Wattgurd (2 votes)
+OPTION: Ampgurd (0 votes)
+OPTION: Sheltron (0 votes)
+
+10/27/23, 8:58 PM - Saloni: EcoSense...🙃
+10/27/23, 8:59 PM - Pranav Yelikar: Basically apna kahi Eco karatach nahi aahot
+10/27/23, 9:07 PM - Pranav Yelikar: 🎉✨ Voltgurd ✨🎊
+10/27/23, 9:09 PM - You changed the group name from "P2VS विद्युत् रक्ष्क⚡" to "Voltgurd P2VS⚡"
+10/28/23, 1:19 AM - Vedant Kasbekar: here are some key points to include in the approach section of your PowerPoint presentation:
+
+Sensors and Technology Integration: Explain how the "Smart Classroom Energy Management" system integrates advanced sensor technologies, including motion and thermal sensors, to detect classroom occupancy.
+
+Data Collection and Preprocessing: Describe the process of collecting and preprocessing data from sensors to make it suitable for analysis.
+
+Machine Learning for Intelligent Energy Management: Highlight the role of machine learning algorithms in making the system intelligent. Emphasize their use in optimizing energy consumption based on historical occupancy data.
+
+Training and Evaluation: Discuss the training process for the system and how it evaluates its performance. Mention the metrics used to measure the effectiveness of energy management.
+
+System Implementation: Provide insights into how the system is implemented, including any software or hardware components, code snippets, libraries, and tools used.
+
+Results and Challenges: Share the results of experiments and discuss challenges encountered during implementation. Explain how the system has contributed to energy savings and sustainability efforts.
+10/31/23, 10:28 AM - Pranav Yelikar: We will have a meeting shortly
+10/31/23, 10:28 AM - Pranav Yelikar: To build road map of our project
+11/1/23, 8:20 PM - Pranav Yelikar: null
+11/1/23, 8:21 PM - Pranav Yelikar: Now our next step is to integrate our ML model with RP0 and test the output
+11/1/23, 8:24 PM - Pranav Yelikar: @917559115119 
+@917709094875 
+Send the ML model quickly, we will finish 1st stage till end of this week
+11/1/23, 8:24 PM - Pranav Yelikar: Soon we have to gear up for stage 2
+11/24/23, 4:28 AM - Vedant Kasbekar: good news
+11/24/23, 4:28 AM - Vedant Kasbekar: ardiuno sobat connect houn hotay
+11/24/23, 8:25 AM - Pranav Vyawahare: 🙂🙂🙂
+11/24/23, 8:25 AM - Pranav Vyawahare: Majha software related all ready
+11/24/23, 8:26 AM - Pranav Vyawahare: Temperature measure, motion detection and face detection
+11/24/23, 8:26 AM - Pranav Vyawahare: All ready 🙂
+11/24/23, 8:26 AM - Vedant Kasbekar: Yes
+11/24/23, 8:27 AM - Vedant Kasbekar: Nahi re
+11/24/23, 8:28 AM - Pranav Vyawahare: Dummy data show karat aahe original nahi temporary kaama saathi
+11/24/23, 8:28 AM - Vedant Kasbekar: Apla je kal zala hota na te Arduino sobat connect zala
+11/24/23, 8:32 AM - Vedant Kasbekar: Pan aplykade temperature camera nahi e na
+11/24/23, 8:32 AM - Pranav Vyawahare: Dummy data gheu sakaloh
+11/24/23, 8:33 AM - Vedant Kasbekar: Pan hotay ka techyat
+11/24/23, 8:33 AM - Pranav Vyawahare: Yes
+11/24/23, 8:33 AM - Pranav Vyawahare: Just te square yeto na
+11/24/23, 8:33 AM - Pranav Vyawahare: Red colour cha
+11/24/23, 8:33 AM - Vedant Kasbekar: Accuracy ahe ka
+11/24/23, 8:34 AM - Vedant Kasbekar: Okk
+11/24/23, 8:34 AM - Vedant Kasbekar: Aj lavkar ye
+11/24/23, 8:34 AM - Pranav Vyawahare: Tyacha varti temperature reading show karate
+11/24/23, 8:34 AM - Vedant Kasbekar: Aplyala temperature Nako e
+11/24/23, 8:34 AM - Vedant Kasbekar: Just human detected pahije
+11/24/23, 8:35 AM - Pranav Vyawahare: Ho na thike
+11/24/23, 8:35 AM - Pranav Vyawahare: Karu aalo ki
+11/24/23, 8:35 AM - Vedant Kasbekar: Mala Arduino chi technique kalali
+11/24/23, 8:36 AM - Vedant Kasbekar: Lavkar ye aj
+11/24/23, 8:36 AM - Vedant Kasbekar: Arduino sobat karun pahu
+11/24/23, 11:12 AM - Pranav Vyawahare: <Media omitted>
+11/26/23, 8:29 PM - Vedant Kasbekar: <Media omitted>
+11/26/23, 8:30 PM - Pranav Vyawahare: 🤌🤌🤌
+11/26/23, 8:33 PM - Pranav Vyawahare: <Media omitted>
+11/27/23, 11:53 AM - Pranav Vyawahare: <Media omitted>
